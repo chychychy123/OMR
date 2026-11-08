@@ -1,0 +1,1026 @@
+[
+  {
+    "episode": 6224,
+    "index": 0,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 21,
+    "row": 1251045,
+    "goal_row": 1251070
+  },
+  {
+    "episode": 5026,
+    "index": 1,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 75,
+    "row": 1010301,
+    "goal_row": 1010326
+  },
+  {
+    "episode": 6661,
+    "index": 2,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 131,
+    "row": 1338992,
+    "goal_row": 1339017
+  },
+  {
+    "episode": 6891,
+    "index": 3,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 21,
+    "row": 1385112,
+    "goal_row": 1385137
+  },
+  {
+    "episode": 8439,
+    "index": 4,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 46,
+    "row": 1696285,
+    "goal_row": 1696310
+  },
+  {
+    "episode": 7165,
+    "index": 5,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 28,
+    "row": 1440193,
+    "goal_row": 1440218
+  },
+  {
+    "episode": 3262,
+    "index": 6,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 73,
+    "row": 655735,
+    "goal_row": 655760
+  },
+  {
+    "episode": 2968,
+    "index": 7,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 142,
+    "row": 596710,
+    "goal_row": 596735
+  },
+  {
+    "episode": 5514,
+    "index": 8,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 109,
+    "row": 1108423,
+    "goal_row": 1108448
+  },
+  {
+    "episode": 6483,
+    "index": 9,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 103,
+    "row": 1303186,
+    "goal_row": 1303211
+  },
+  {
+    "episode": 9868,
+    "index": 10,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 145,
+    "row": 1983613,
+    "goal_row": 1983638
+  },
+  {
+    "episode": 9723,
+    "index": 11,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 71,
+    "row": 1954394,
+    "goal_row": 1954419
+  },
+  {
+    "episode": 3374,
+    "index": 12,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 76,
+    "row": 678250,
+    "goal_row": 678275
+  },
+  {
+    "episode": 779,
+    "index": 13,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 166,
+    "row": 156745,
+    "goal_row": 156770
+  },
+  {
+    "episode": 3053,
+    "index": 14,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 5,
+    "row": 613658,
+    "goal_row": 613683
+  },
+  {
+    "episode": 3196,
+    "index": 15,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 83,
+    "row": 642479,
+    "goal_row": 642504
+  },
+  {
+    "episode": 222,
+    "index": 16,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 60,
+    "row": 44682,
+    "goal_row": 44707
+  },
+  {
+    "episode": 650,
+    "index": 17,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 0,
+    "row": 130650,
+    "goal_row": 130675
+  },
+  {
+    "episode": 5393,
+    "index": 18,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 70,
+    "row": 1084063,
+    "goal_row": 1084088
+  },
+  {
+    "episode": 7822,
+    "index": 19,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 173,
+    "row": 1572395,
+    "goal_row": 1572420
+  },
+  {
+    "episode": 6895,
+    "index": 20,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 95,
+    "row": 1385990,
+    "goal_row": 1386015
+  },
+  {
+    "episode": 1547,
+    "index": 21,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 85,
+    "row": 311032,
+    "goal_row": 311057
+  },
+  {
+    "episode": 8784,
+    "index": 22,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 136,
+    "row": 1765720,
+    "goal_row": 1765745
+  },
+  {
+    "episode": 6035,
+    "index": 23,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 149,
+    "row": 1213184,
+    "goal_row": 1213209
+  },
+  {
+    "episode": 1962,
+    "index": 24,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 155,
+    "row": 394517,
+    "goal_row": 394542
+  },
+  {
+    "episode": 7746,
+    "index": 25,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 117,
+    "row": 1557063,
+    "goal_row": 1557088
+  },
+  {
+    "episode": 9601,
+    "index": 26,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 55,
+    "row": 1929856,
+    "goal_row": 1929881
+  },
+  {
+    "episode": 8695,
+    "index": 27,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 147,
+    "row": 1747842,
+    "goal_row": 1747867
+  },
+  {
+    "episode": 2840,
+    "index": 28,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 40,
+    "row": 570880,
+    "goal_row": 570905
+  },
+  {
+    "episode": 9000,
+    "index": 29,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 151,
+    "row": 1809151,
+    "goal_row": 1809176
+  },
+  {
+    "episode": 2564,
+    "index": 30,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 2,
+    "row": 515366,
+    "goal_row": 515391
+  },
+  {
+    "episode": 5915,
+    "index": 31,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 93,
+    "row": 1189008,
+    "goal_row": 1189033
+  },
+  {
+    "episode": 8545,
+    "index": 32,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 82,
+    "row": 1717627,
+    "goal_row": 1717652
+  },
+  {
+    "episode": 4074,
+    "index": 33,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 88,
+    "row": 818962,
+    "goal_row": 818987
+  },
+  {
+    "episode": 6191,
+    "index": 34,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 76,
+    "row": 1244467,
+    "goal_row": 1244492
+  },
+  {
+    "episode": 203,
+    "index": 35,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 65,
+    "row": 40868,
+    "goal_row": 40893
+  },
+  {
+    "episode": 735,
+    "index": 36,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 156,
+    "row": 147891,
+    "goal_row": 147916
+  },
+  {
+    "episode": 654,
+    "index": 37,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 23,
+    "row": 131477,
+    "goal_row": 131502
+  },
+  {
+    "episode": 2781,
+    "index": 38,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 127,
+    "row": 559108,
+    "goal_row": 559133
+  },
+  {
+    "episode": 3964,
+    "index": 39,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 87,
+    "row": 796851,
+    "goal_row": 796876
+  },
+  {
+    "episode": 751,
+    "index": 40,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 109,
+    "row": 151060,
+    "goal_row": 151085
+  },
+  {
+    "episode": 746,
+    "index": 41,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 77,
+    "row": 150023,
+    "goal_row": 150048
+  },
+  {
+    "episode": 9195,
+    "index": 42,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 80,
+    "row": 1848275,
+    "goal_row": 1848300
+  },
+  {
+    "episode": 8803,
+    "index": 43,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 60,
+    "row": 1769463,
+    "goal_row": 1769488
+  },
+  {
+    "episode": 8435,
+    "index": 44,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 152,
+    "row": 1695587,
+    "goal_row": 1695612
+  },
+  {
+    "episode": 498,
+    "index": 45,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 139,
+    "row": 100237,
+    "goal_row": 100262
+  },
+  {
+    "episode": 6820,
+    "index": 46,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 7,
+    "row": 1370827,
+    "goal_row": 1370852
+  },
+  {
+    "episode": 2496,
+    "index": 47,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 149,
+    "row": 501845,
+    "goal_row": 501870
+  },
+  {
+    "episode": 3352,
+    "index": 48,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 34,
+    "row": 673786,
+    "goal_row": 673811
+  },
+  {
+    "episode": 7922,
+    "index": 49,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 45,
+    "row": 1592367,
+    "goal_row": 1592392
+  },
+  {
+    "episode": 1942,
+    "index": 50,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 41,
+    "row": 390383,
+    "goal_row": 390408
+  },
+  {
+    "episode": 1719,
+    "index": 51,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 31,
+    "row": 345550,
+    "goal_row": 345575
+  },
+  {
+    "episode": 6617,
+    "index": 52,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 8,
+    "row": 1330025,
+    "goal_row": 1330050
+  },
+  {
+    "episode": 1453,
+    "index": 53,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 155,
+    "row": 292208,
+    "goal_row": 292233
+  },
+  {
+    "episode": 2175,
+    "index": 54,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 28,
+    "row": 437203,
+    "goal_row": 437228
+  },
+  {
+    "episode": 6863,
+    "index": 55,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 114,
+    "row": 1379577,
+    "goal_row": 1379602
+  },
+  {
+    "episode": 8678,
+    "index": 56,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 75,
+    "row": 1744353,
+    "goal_row": 1744378
+  },
+  {
+    "episode": 4224,
+    "index": 57,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 132,
+    "row": 849156,
+    "goal_row": 849181
+  },
+  {
+    "episode": 4539,
+    "index": 58,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 117,
+    "row": 912456,
+    "goal_row": 912481
+  },
+  {
+    "episode": 795,
+    "index": 59,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 12,
+    "row": 159807,
+    "goal_row": 159832
+  },
+  {
+    "episode": 8357,
+    "index": 60,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 0,
+    "row": 1679757,
+    "goal_row": 1679782
+  },
+  {
+    "episode": 1865,
+    "index": 61,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 148,
+    "row": 375013,
+    "goal_row": 375038
+  },
+  {
+    "episode": 2509,
+    "index": 62,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 172,
+    "row": 504481,
+    "goal_row": 504506
+  },
+  {
+    "episode": 3534,
+    "index": 63,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 3,
+    "row": 710337,
+    "goal_row": 710362
+  },
+  {
+    "episode": 7288,
+    "index": 64,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 86,
+    "row": 1464974,
+    "goal_row": 1464999
+  },
+  {
+    "episode": 1289,
+    "index": 65,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 58,
+    "row": 259147,
+    "goal_row": 259172
+  },
+  {
+    "episode": 6676,
+    "index": 66,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 151,
+    "row": 1342027,
+    "goal_row": 1342052
+  },
+  {
+    "episode": 453,
+    "index": 67,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 76,
+    "row": 91129,
+    "goal_row": 91154
+  },
+  {
+    "episode": 8016,
+    "index": 68,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 48,
+    "row": 1611264,
+    "goal_row": 1611289
+  },
+  {
+    "episode": 4839,
+    "index": 69,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 154,
+    "row": 972793,
+    "goal_row": 972818
+  },
+  {
+    "episode": 7714,
+    "index": 70,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 164,
+    "row": 1550678,
+    "goal_row": 1550703
+  },
+  {
+    "episode": 6652,
+    "index": 71,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 166,
+    "row": 1337218,
+    "goal_row": 1337243
+  },
+  {
+    "episode": 9385,
+    "index": 72,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 5,
+    "row": 1886390,
+    "goal_row": 1886415
+  },
+  {
+    "episode": 4837,
+    "index": 73,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 64,
+    "row": 972301,
+    "goal_row": 972326
+  },
+  {
+    "episode": 9765,
+    "index": 74,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 139,
+    "row": 1962904,
+    "goal_row": 1962929
+  },
+  {
+    "episode": 4245,
+    "index": 75,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 17,
+    "row": 853262,
+    "goal_row": 853287
+  },
+  {
+    "episode": 8368,
+    "index": 76,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 148,
+    "row": 1682116,
+    "goal_row": 1682141
+  },
+  {
+    "episode": 4618,
+    "index": 77,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 16,
+    "row": 928234,
+    "goal_row": 928259
+  },
+  {
+    "episode": 6370,
+    "index": 78,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 44,
+    "row": 1280414,
+    "goal_row": 1280439
+  },
+  {
+    "episode": 7059,
+    "index": 79,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 65,
+    "row": 1418924,
+    "goal_row": 1418949
+  },
+  {
+    "episode": 237,
+    "index": 80,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 100,
+    "row": 47737,
+    "goal_row": 47762
+  },
+  {
+    "episode": 6869,
+    "index": 81,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 72,
+    "row": 1380741,
+    "goal_row": 1380766
+  },
+  {
+    "episode": 8879,
+    "index": 82,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 125,
+    "row": 1784804,
+    "goal_row": 1784829
+  },
+  {
+    "episode": 1935,
+    "index": 83,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 73,
+    "row": 389008,
+    "goal_row": 389033
+  },
+  {
+    "episode": 5912,
+    "index": 84,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 121,
+    "row": 1188433,
+    "goal_row": 1188458
+  },
+  {
+    "episode": 8322,
+    "index": 85,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 53,
+    "row": 1672775,
+    "goal_row": 1672800
+  },
+  {
+    "episode": 172,
+    "index": 86,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 91,
+    "row": 34663,
+    "goal_row": 34688
+  },
+  {
+    "episode": 9343,
+    "index": 87,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 96,
+    "row": 1878039,
+    "goal_row": 1878064
+  },
+  {
+    "episode": 5671,
+    "index": 88,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 56,
+    "row": 1139927,
+    "goal_row": 1139952
+  },
+  {
+    "episode": 1587,
+    "index": 89,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 139,
+    "row": 319126,
+    "goal_row": 319151
+  },
+  {
+    "episode": 359,
+    "index": 90,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 35,
+    "row": 72194,
+    "goal_row": 72219
+  },
+  {
+    "episode": 8316,
+    "index": 91,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 112,
+    "row": 1671628,
+    "goal_row": 1671653
+  },
+  {
+    "episode": 9156,
+    "index": 92,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 0,
+    "row": 1840356,
+    "goal_row": 1840381
+  },
+  {
+    "episode": 8353,
+    "index": 93,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 119,
+    "row": 1679072,
+    "goal_row": 1679097
+  },
+  {
+    "episode": 7340,
+    "index": 94,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 32,
+    "row": 1475372,
+    "goal_row": 1475397
+  },
+  {
+    "episode": 3765,
+    "index": 95,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 23,
+    "row": 756788,
+    "goal_row": 756813
+  },
+  {
+    "episode": 2067,
+    "index": 96,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 77,
+    "row": 415544,
+    "goal_row": 415569
+  },
+  {
+    "episode": 6639,
+    "index": 97,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 0,
+    "row": 1334439,
+    "goal_row": 1334464
+  },
+  {
+    "episode": 5983,
+    "index": 98,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 62,
+    "row": 1202645,
+    "goal_row": 1202670
+  },
+  {
+    "episode": 2825,
+    "index": 99,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 56,
+    "row": 567881,
+    "goal_row": 567906
+  },
+  {
+    "episode": 5548,
+    "index": 100,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 58,
+    "row": 1115206,
+    "goal_row": 1115231
+  },
+  {
+    "episode": 1607,
+    "index": 101,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 34,
+    "row": 323041,
+    "goal_row": 323066
+  },
+  {
+    "episode": 5400,
+    "index": 102,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 36,
+    "row": 1085436,
+    "goal_row": 1085461
+  },
+  {
+    "episode": 9799,
+    "index": 103,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 28,
+    "row": 1969627,
+    "goal_row": 1969652
+  },
+  {
+    "episode": 3335,
+    "index": 104,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 66,
+    "row": 670401,
+    "goal_row": 670426
+  },
+  {
+    "episode": 167,
+    "index": 105,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 32,
+    "row": 33599,
+    "goal_row": 33624
+  },
+  {
+    "episode": 5389,
+    "index": 106,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 51,
+    "row": 1083240,
+    "goal_row": 1083265
+  },
+  {
+    "episode": 6919,
+    "index": 107,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 53,
+    "row": 1390772,
+    "goal_row": 1390797
+  },
+  {
+    "episode": 4676,
+    "index": 108,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 66,
+    "row": 939942,
+    "goal_row": 939967
+  },
+  {
+    "episode": 3518,
+    "index": 109,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 147,
+    "row": 707265,
+    "goal_row": 707290
+  },
+  {
+    "episode": 4770,
+    "index": 110,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 98,
+    "row": 958868,
+    "goal_row": 958893
+  },
+  {
+    "episode": 2834,
+    "index": 111,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 146,
+    "row": 569780,
+    "goal_row": 569805
+  },
+  {
+    "episode": 6029,
+    "index": 112,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 35,
+    "row": 1211864,
+    "goal_row": 1211889
+  },
+  {
+    "episode": 8150,
+    "index": 113,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 64,
+    "row": 1638214,
+    "goal_row": 1638239
+  },
+  {
+    "episode": 6408,
+    "index": 114,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 83,
+    "row": 1288091,
+    "goal_row": 1288116
+  },
+  {
+    "episode": 6944,
+    "index": 115,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 76,
+    "row": 1395820,
+    "goal_row": 1395845
+  },
+  {
+    "episode": 3165,
+    "index": 116,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 101,
+    "row": 636266,
+    "goal_row": 636291
+  },
+  {
+    "episode": 1517,
+    "index": 117,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 137,
+    "row": 305054,
+    "goal_row": 305079
+  },
+  {
+    "episode": 3029,
+    "index": 118,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 65,
+    "row": 608894,
+    "goal_row": 608919
+  },
+  {
+    "episode": 3630,
+    "index": 119,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 145,
+    "row": 729775,
+    "goal_row": 729800
+  },
+  {
+    "episode": 7270,
+    "index": 120,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 89,
+    "row": 1461359,
+    "goal_row": 1461384
+  },
+  {
+    "episode": 5292,
+    "index": 121,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 64,
+    "row": 1063756,
+    "goal_row": 1063781
+  },
+  {
+    "episode": 2190,
+    "index": 122,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 26,
+    "row": 440216,
+    "goal_row": 440241
+  },
+  {
+    "episode": 3730,
+    "index": 123,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 168,
+    "row": 749898,
+    "goal_row": 749923
+  },
+  {
+    "episode": 5534,
+    "index": 124,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 175,
+    "row": 1112509,
+    "goal_row": 1112534
+  },
+  {
+    "episode": 8525,
+    "index": 125,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 42,
+    "row": 1713567,
+    "goal_row": 1713592
+  },
+  {
+    "episode": 6989,
+    "index": 126,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 131,
+    "row": 1404920,
+    "goal_row": 1404945
+  },
+  {
+    "episode": 8865,
+    "index": 127,
+    "split": "self_guide_prospective_confirmation",
+    "start_step": 164,
+    "row": 1782029,
+    "goal_row": 1782054
+  }
+]

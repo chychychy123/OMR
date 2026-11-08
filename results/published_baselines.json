@@ -1,0 +1,87 @@
+{
+  "source": "LeWorldModel arXiv:2603.19312v3, Figure 6, PDF page 7",
+  "url": "https://arxiv.org/html/2603.19312v3",
+  "source_pdf_sha256": "553a01501ac74ec56721cfdb936d3825ac941734133a1fd761f614c01b6887e9",
+  "tasks": [
+    "TwoRoom",
+    "PushT",
+    "Cube",
+    "Reacher"
+  ],
+  "reported_by": "LeWorldModel authors, not rerun in this study",
+  "rows": [
+    {
+      "method": "PLDM",
+      "input": "RGB",
+      "scores": [
+        97,
+        78,
+        65,
+        78
+      ]
+    },
+    {
+      "method": "DINO-WM",
+      "input": "RGB",
+      "scores": [
+        100,
+        74,
+        86,
+        79
+      ]
+    },
+    {
+      "method": "GCBC",
+      "input": "RGB",
+      "scores": [
+        100,
+        75,
+        84,
+        null
+      ]
+    },
+    {
+      "method": "GCIQL",
+      "input": "RGB",
+      "scores": [
+        100,
+        20,
+        64,
+        null
+      ]
+    },
+    {
+      "method": "GCIVL",
+      "input": "RGB",
+      "scores": [
+        100,
+        33,
+        56,
+        null
+      ]
+    },
+    {
+      "method": "DINO-WM + prop.",
+      "input": "RGB + proprioception",
+      "scores": [
+        100,
+        92,
+        null,
+        null
+      ]
+    }
+  ],
+  "selection_rule": "All learned external baseline families in source Figure 6; LeWM excluded at author request, random action excluded as non-learned reference. Missing entries remain missing. No selection by score.",
+  "ours": {
+    "name": "OMR + shared planner",
+    "recorded_method": "refined_self",
+    "scores": [
+      97.39583333333333,
+      91.015625,
+      86.45833333333334,
+      85.546875
+    ],
+    "mean": 90.10416666666667
+  },
+  "comparability": "Cross-report descriptive context. Source baseline checkpoints, test roots and planning budgets differ from this confirmation. No paired significance claim; only own 95% intervals available."
+}

@@ -1,0 +1,176 @@
+{
+  "status": "passed",
+  "timestamp": 1793430810.7801373,
+  "main_frozen_R8_exact_max_abs": 0.0,
+  "generalized_framework_exact_max_abs": 0.0,
+  "original_CEM_branch_max_abs": 0.0,
+  "paths_checked": [
+    [
+      "refined_self",
+      10,
+      2131
+    ],
+    [
+      "refined_self",
+      10,
+      2132
+    ],
+    [
+      "refined_self",
+      10,
+      2133
+    ],
+    [
+      "refined_e0",
+      10,
+      0
+    ],
+    [
+      "refined_jev",
+      10,
+      2131
+    ],
+    [
+      "refined_jev",
+      10,
+      2132
+    ],
+    [
+      "refined_jev",
+      10,
+      2133
+    ],
+    [
+      "refined_temporal",
+      10,
+      2131
+    ],
+    [
+      "refined_temporal",
+      10,
+      2132
+    ],
+    [
+      "refined_temporal",
+      10,
+      2133
+    ],
+    [
+      "r6_self",
+      10,
+      2131
+    ],
+    [
+      "r6_self",
+      10,
+      2132
+    ],
+    [
+      "r6_self",
+      10,
+      2133
+    ],
+    [
+      "r6extra_self",
+      10,
+      2131
+    ],
+    [
+      "r6extra_self",
+      10,
+      2132
+    ],
+    [
+      "r6extra_self",
+      10,
+      2133
+    ],
+    [
+      "abl_direct_self",
+      10,
+      2131
+    ],
+    [
+      "abl_direct_self",
+      10,
+      2132
+    ],
+    [
+      "abl_direct_self",
+      10,
+      2133
+    ],
+    [
+      "abl_retain_self",
+      10,
+      2131
+    ],
+    [
+      "abl_retain_self",
+      10,
+      2132
+    ],
+    [
+      "abl_retain_self",
+      10,
+      2133
+    ],
+    [
+      "lewm900",
+      10,
+      0
+    ],
+    [
+      "retrieval900",
+      10,
+      0
+    ]
+  ],
+  "independent_interpolation_max_abs": 1.378354285153094e-07,
+  "physical_checks": [
+    {
+      "method": "refined_self",
+      "commands": 10,
+      "replay_max_abs": 0.0,
+      "action_inverse_max_abs": 4.149474486236926e-08
+    },
+    {
+      "method": "refined_e0",
+      "commands": 10,
+      "replay_max_abs": 0.0,
+      "action_inverse_max_abs": 4.149474486236926e-08
+    },
+    {
+      "method": "r6_self",
+      "commands": 10,
+      "replay_max_abs": 0.0,
+      "action_inverse_max_abs": 4.149474486236926e-08
+    },
+    {
+      "method": "r6extra_self",
+      "commands": 10,
+      "replay_max_abs": 0.0,
+      "action_inverse_max_abs": 4.149474486236926e-08
+    },
+    {
+      "method": "abl_direct_self",
+      "commands": 10,
+      "replay_max_abs": 0.0,
+      "action_inverse_max_abs": 5.6701314421481186e-08
+    },
+    {
+      "method": "abl_retain_self",
+      "commands": 10,
+      "replay_max_abs": 0.0,
+      "action_inverse_max_abs": 7.146590519369056e-08
+    }
+  ],
+  "physical_steps": 60,
+  "effect_episodes": 0,
+  "new_training_steps": 0,
+  "new_API": 0,
+  "source_registry": "18e944a0002a7c6d358f55df45ef0ab14d1358e6d303c00498d949212b0d3a2f",
+  "protocol_sha256": "aa5049b4ae14fef52a425b3c4468d45639cbbb6d9b8a87d9cba8bbb4ff2f262b",
+  "elapsed_seconds": 48.5470404624939,
+  "limits": "Training-record engineering QA only; early success can shorten physical checks. Not full evaluation-trajectory replay."
+}

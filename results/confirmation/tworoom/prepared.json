@@ -1,0 +1,61 @@
+{
+  "status": "complete",
+  "new_training_steps": 0,
+  "new_API": 0,
+  "physical_steps": 0,
+  "models": {
+    "jev_search_2131": {
+      "sha256": "ab48276cc9b85d36258a3c7668bfa47165c0aac607937715210b39ecea590d81",
+      "validation_loss": 0.7221608757972717,
+      "last_gradient_norm": 0.0021798620000481606
+    },
+    "jev_search_2132": {
+      "sha256": "8ad53d681976e134543659db9b63f52ef19b4b38e895e46bfff3c633f6ac0ead",
+      "validation_loss": 0.731093168258667,
+      "last_gradient_norm": 0.0014118538238108158
+    },
+    "jev_search_2133": {
+      "sha256": "0ce399c3b976336dc62ab5b6049fe38d7ddca8b39e67e7e63d9b6398308b5bd0",
+      "validation_loss": 0.7207096815109253,
+      "last_gradient_norm": 0.015797855332493782
+    },
+    "temporal_search_2131": {
+      "sha256": "f68126fd8a20354a66c523db3a81aa660ba4042a1437c5da551b5705c9db9fb3",
+      "validation_loss": 3.902156114578247,
+      "last_gradient_norm": 0.002026475267484784
+    },
+    "temporal_search_2132": {
+      "sha256": "974ddbc45d03be84389b425b44f11f63d515b469bf2478cfe575f01cf8ac2dc4",
+      "validation_loss": 3.8513588905334473,
+      "last_gradient_norm": 0.022325487807393074
+    },
+    "temporal_search_2133": {
+      "sha256": "4a248f5394060e18730179a077756cf2de9dea3bafcca132587e1bdcfe728ec5",
+      "validation_loss": 3.8762564659118652,
+      "last_gradient_norm": 0.0010114533361047506
+    },
+    "self_search_2131": {
+      "sha256": "86902d2d1fdfa73e42ef0ede7074e88642a9bf8223e010b035155866ca4eed83",
+      "validation_loss": 0.6835135817527771,
+      "last_gradient_norm": 0.0020150465425103903
+    },
+    "self_search_2132": {
+      "sha256": "7825c6154db35c7fe7592601ce6e3210477f32ac19ccfc327a0ddf509fc928a3",
+      "validation_loss": 0.6831822991371155,
+      "last_gradient_norm": 0.0012836006935685873
+    },
+    "self_search_2133": {
+      "sha256": "616f2a6ec4b682cfa1934cd1777720092c49d853729d547721d0d4a79cbff7c7",
+      "validation_loss": 0.6836529970169067,
+      "last_gradient_norm": 0.00650849798694253
+    }
+  },
+  "scale": 342.55767822265625,
+  "bank_sha256": "7bdb33451e383c4b9c728083496e523976d71d81b49b2c0a2b149b79c2c202a9",
+  "split_sha256": "9362915bb48263f3c08451a6050f1815fa046053a269b60c13d84b59692419ac",
+  "action_stats_sha256": "ef3c3ffd756bd36e7241f1a862430c680dcefa1093d03460a485a73dff056dd8",
+  "checkpoint_sha256": "ac1b624c17305a9003c01509b510c685f054a6a7be387e77866f7e20e9f3338e",
+  "protocol_sha256": "aa5049b4ae14fef52a425b3c4468d45639cbbb6d9b8a87d9cba8bbb4ff2f262b",
+  "source_prepared_sha256": "b3ea9dbd8dc06449ef2bd217f8a3f62e40601bc1a506a4fb18dced6aa5b304e7",
+  "completed": 1793430758.4176047
+}

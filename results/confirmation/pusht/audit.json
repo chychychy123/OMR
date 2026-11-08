@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "timestamp": 1793427041.1151261,
+  "episodes": 6144,
+  "target": 6144,
+  "physical_steps": 159163,
+  "roots_seen": 128,
+  "errors": [],
+  "scope": "SDTGR all saved trajectories with committed-prefix reconstruction, all5or9final candidate plans and original-branch plan checks: SHA/source/checkpoint identity, paired initial state/goal/image, independent success rule, solver-normalized to command reconstruction, candidate-incumbent inequality. Engineering replay covers only the pre-registered QA episode, not all control dynamics."
+}

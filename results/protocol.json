@@ -1,0 +1,174 @@
+{
+  "version": "SDTGR_v1_self_distilled_confirmation",
+  "registered_epoch": 1793420541.7562008,
+  "batch_started_epoch": 1793419200,
+  "hard_deadline_epoch": 1793484000,
+  "authorization": "2026-10-31 user requests self-distilled main method, updated paper/figures and necessary GPU1/2/3 experiments.",
+  "purpose": "Independent confirmation of a guide chosen after S1. S1 is selection/development evidence, never relabeled a prospective confirmation.",
+  "primary": "refined_self",
+  "datasets": [
+    "pusht",
+    "reacher",
+    "tworoom",
+    "cube"
+  ],
+  "head_seeds": [
+    2131,
+    2132,
+    2133
+  ],
+  "planning_seeds": [
+    8301,
+    8302
+  ],
+  "models": {
+    "pusht": {
+      "seed": 3072,
+      "epoch": 10,
+      "frozen": true,
+      "checkpoint_sha256": "0d8f25de712e588475025c3ae37dd898f26606a1cad14996a740baa25d3b5610"
+    },
+    "tworoom": {
+      "seed": 3072,
+      "epoch": 10,
+      "frozen": true,
+      "checkpoint_sha256": "ac1b624c17305a9003c01509b510c685f054a6a7be387e77866f7e20e9f3338e"
+    },
+    "reacher": {
+      "seed": 3072,
+      "epoch": 10,
+      "frozen": true,
+      "checkpoint_sha256": "248244800dfd7f47c73f80d38eaf95e6996df705732d9c402af78f188a103282"
+    },
+    "cube": {
+      "seed": 3072,
+      "epoch": 10,
+      "checkpoint_sha256": "4894366d017ec685f35a96e66c14579550637eb75baf7c19c62bb79178f01694",
+      "frozen": true
+    }
+  },
+  "planning": {
+    "high_iterations": {
+      "pusht": 30,
+      "reacher": 10,
+      "cube": 10,
+      "tworoom": 10
+    },
+    "low_iterations": {
+      "pusht": 10,
+      "reacher": 4,
+      "cube": 4,
+      "tworoom": 4
+    },
+    "horizon_commands": 25,
+    "commit_commands": 25,
+    "max_episode_commands": 50,
+    "bank_size": 256,
+    "start_prefilter": 16,
+    "modes": 4,
+    "per_mode_candidates": 75,
+    "residual_std": 0.25,
+    "coarse_knots": 5,
+    "fine_knots": 25,
+    "original_candidates": 300,
+    "original_elites": 30,
+    "mode_elites": 8,
+    "main_final_candidates": 9,
+    "final_score": "Original frozen E0 only; no best-visited sample"
+  },
+  "methods": {
+    "refined_self": 3,
+    "refined_e0": 1,
+    "refined_jev": 3,
+    "refined_temporal": 3,
+    "r6_self": 3,
+    "r6extra_self": 3,
+    "abl_direct_self": 3,
+    "abl_retain_self": 3,
+    "lewm900": 1,
+    "retrieval900": 1
+  },
+  "matrix": {
+    "roots": 128,
+    "configurations": 24,
+    "episodes_per_environment": 6144,
+    "total_episodes": 24576,
+    "max_commands": 1228800,
+    "fixed_cohorts": {
+      "A": [
+        0,
+        63
+      ],
+      "B": [
+        64,
+        127
+      ]
+    }
+  },
+  "data": {
+    "seeds": {
+      "pusht": 183001,
+      "reacher": 183002,
+      "cube": 183003,
+      "tworoom": 183004
+    },
+    "exclusions": "Historical ID-only exclusion union plus every discovery/confirmation ID reserved by concurrent R6 geometry study; no held-out outcome read."
+  },
+  "statistics": {
+    "bootstrap_seeds": {
+      "pusht": 18310991,
+      "reacher": 18320991,
+      "cube": 18330991,
+      "tworoom": 18340991
+    },
+    "bootstrap_replicates": 10000,
+    "family": 36,
+    "alpha": 0.05,
+    "macro_family": 9,
+    "primary_endpoint": "50-command environment success; average heads/planners inside each root, then equal weight tasks. All 9 pairwise comparisons, all signs, all tasks retained.",
+    "no_stop_for_effect": true
+  },
+  "method_definition": {
+    "teacher": "sigmoid((observed squared-distance B-goal minus A-goal)/training mean distance)",
+    "student": "Identity-initialized 192x192 metric; half observed BCE plus half mean forecast BCE (5/15/25), identity penalty .001; frozen historical final checkpoints",
+    "teacher_information": "RGB/recorded actions/frozen encoder and predictions only. No preference API or success label for the main guide.",
+    "deployment": "Current-RGB prefilter; student endpoint ranking; unchanged coarse-to-fine residual optimizer; original goal cost for elites/final selection.",
+    "observed_only_control": "At exact identity the observed-only self-distillation BCE is minimized because teacher and student logits coincide, with zero identity regularizer. Thus the geometric guide is the exact observed-only solution; no artificial duplicate fit."
+  },
+  "qa": {
+    "all_paths": 24,
+    "parity": "Frozen RefinementSolver vs default generalized solver for all four guides, plus original CEM branch; exact 0",
+    "physical_replay_tolerance": 1e-07,
+    "RGB_replay_tolerance": 0,
+    "action_inverse_tolerance": 0.0001,
+    "maximum_commands": 400,
+    "source": "First fixed training record, never evaluation-root selection"
+  },
+  "resource_policy": {
+    "gpus": [
+      1,
+      2,
+      3
+    ],
+    "forbidden": [
+      0
+    ],
+    "memory_fraction": 0.2,
+    "threads": 2,
+    "nice": 10,
+    "whole_batch_hours": 18,
+    "automatic_retry": false,
+    "shared_processes": "Never stop or modify other jobs; namespace-local locks and PID/start-token checks; do not change main-thread experiment."
+  },
+  "new_WM_training": 0,
+  "new_head_training": 0,
+  "new_API": 0,
+  "cube_engineering": "Apply the already source-reviewed process-local Cube initialization/seed/material/cutoff repair to every method; record changed illumination and strict paired initial-image replay. Do not describe this as exact S1 simulator equivalence.",
+  "completion": "All four matrices unless engineering/resource/deadline failure. No effect-driven tuning, choosing seeds, or selective omission. Only coordinator executes final audit/bootstrap. Preserve original files and failures. Paper remains provisional until confirmation and review.",
+  "limits": [
+    "One frozen world-model training seed per task",
+    "No real-robot or OOD confirmation",
+    "Self-distillation and multiscale CEM are established tools, not claimed invented",
+    "An identity or score improvement is not a physical success guarantee"
+  ]
+}

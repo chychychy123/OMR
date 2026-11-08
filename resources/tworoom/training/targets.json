@@ -1,0 +1,642 @@
+[
+  {
+    "target": 0.045,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5858585858585859,
+    "weight": 0.99
+  },
+  {
+    "target": 0.44499999999999995,
+    "weight": 1.0
+  },
+  {
+    "target": 0.0,
+    "weight": 1.0
+  },
+  {
+    "target": 0.9500000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.86,
+    "weight": 1.0
+  },
+  {
+    "target": 0.055,
+    "weight": 1.0
+  },
+  {
+    "target": 0.205,
+    "weight": 1.0
+  },
+  {
+    "target": 0.3787878787878788,
+    "weight": 0.99
+  },
+  {
+    "target": 0.37,
+    "weight": 1.0
+  },
+  {
+    "target": 0.23,
+    "weight": 1.0
+  },
+  {
+    "target": 0.295,
+    "weight": 1.0
+  },
+  {
+    "target": 0.4494949494949495,
+    "weight": 0.99
+  },
+  {
+    "target": 0.48484848484848486,
+    "weight": 0.99
+  },
+  {
+    "target": 0.01,
+    "weight": 1.0
+  },
+  {
+    "target": 0.494949494949495,
+    "weight": 0.99
+  },
+  {
+    "target": 0.2828282828282829,
+    "weight": 0.99
+  },
+  {
+    "target": 0.6868686868686869,
+    "weight": 0.99
+  },
+  {
+    "target": 0.965,
+    "weight": 1.0
+  },
+  {
+    "target": 0.7171717171717171,
+    "weight": 0.99
+  },
+  {
+    "target": 0.7849999999999999,
+    "weight": 1.0
+  },
+  {
+    "target": 0.865,
+    "weight": 1.0
+  },
+  {
+    "target": 0.4545454545454546,
+    "weight": 0.99
+  },
+  {
+    "target": 0.5454545454545455,
+    "weight": 0.99
+  },
+  {
+    "target": 0.185,
+    "weight": 1.0
+  },
+  {
+    "target": 0.885,
+    "weight": 1.0
+  },
+  {
+    "target": 0.30303030303030304,
+    "weight": 0.99
+  },
+  {
+    "target": 0.4898989898989899,
+    "weight": 0.99
+  },
+  {
+    "target": 0.04,
+    "weight": 1.0
+  },
+  {
+    "target": 0.48,
+    "weight": 1.0
+  },
+  {
+    "target": 0.065,
+    "weight": 1.0
+  },
+  {
+    "target": 0.8300000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.92,
+    "weight": 1.0
+  },
+  {
+    "target": 0.645,
+    "weight": 1.0
+  },
+  {
+    "target": 0.035,
+    "weight": 1.0
+  },
+  {
+    "target": 0.21000000000000002,
+    "weight": 1.0
+  },
+  {
+    "target": 0.155,
+    "weight": 1.0
+  },
+  {
+    "target": 0.9,
+    "weight": 1.0
+  },
+  {
+    "target": 0.125,
+    "weight": 1.0
+  },
+  {
+    "target": 0.21212121212121215,
+    "weight": 0.99
+  },
+  {
+    "target": 0.055,
+    "weight": 1.0
+  },
+  {
+    "target": 0.965,
+    "weight": 1.0
+  },
+  {
+    "target": 0.13,
+    "weight": 1.0
+  },
+  {
+    "target": 0.23232323232323235,
+    "weight": 0.99
+  },
+  {
+    "target": 0.11,
+    "weight": 1.0
+  },
+  {
+    "target": 0.05,
+    "weight": 1.0
+  },
+  {
+    "target": 0.28500000000000003,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5151515151515151,
+    "weight": 0.99
+  },
+  {
+    "target": 0.09,
+    "weight": 1.0
+  },
+  {
+    "target": 0.87,
+    "weight": 1.0
+  },
+  {
+    "target": 0.925,
+    "weight": 1.0
+  },
+  {
+    "target": 0.56,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5606060606060606,
+    "weight": 0.99
+  },
+  {
+    "target": 0.75,
+    "weight": 1.0
+  },
+  {
+    "target": 0.155,
+    "weight": 1.0
+  },
+  {
+    "target": 0.245,
+    "weight": 1.0
+  },
+  {
+    "target": 0.35353535353535354,
+    "weight": 0.99
+  },
+  {
+    "target": 0.3434343434343434,
+    "weight": 0.99
+  },
+  {
+    "target": 0.30303030303030304,
+    "weight": 0.99
+  },
+  {
+    "target": 0.12,
+    "weight": 1.0
+  },
+  {
+    "target": 0.4393939393939394,
+    "weight": 0.99
+  },
+  {
+    "target": 0.33,
+    "weight": 1.0
+  },
+  {
+    "target": 0.955,
+    "weight": 1.0
+  },
+  {
+    "target": 0.0,
+    "weight": 1.0
+  },
+  {
+    "target": 0.712121212121212,
+    "weight": 0.99
+  },
+  {
+    "target": 0.04,
+    "weight": 1.0
+  },
+  {
+    "target": 0.81,
+    "weight": 1.0
+  },
+  {
+    "target": 0.61,
+    "weight": 1.0
+  },
+  {
+    "target": 0.585858585858586,
+    "weight": 0.99
+  },
+  {
+    "target": 0.5757575757575757,
+    "weight": 0.99
+  },
+  {
+    "target": 0.9,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5808080808080808,
+    "weight": 0.99
+  },
+  {
+    "target": 0.025,
+    "weight": 1.0
+  },
+  {
+    "target": 0.32,
+    "weight": 1.0
+  },
+  {
+    "target": 0.725,
+    "weight": 1.0
+  },
+  {
+    "target": 0.7899999999999999,
+    "weight": 1.0
+  },
+  {
+    "target": 0.32323232323232326,
+    "weight": 0.99
+  },
+  {
+    "target": 0.5499999999999999,
+    "weight": 1.0
+  },
+  {
+    "target": 0.835,
+    "weight": 1.0
+  },
+  {
+    "target": 0.045,
+    "weight": 1.0
+  },
+  {
+    "target": 0.32323232323232326,
+    "weight": 0.99
+  },
+  {
+    "target": 0.04,
+    "weight": 1.0
+  },
+  {
+    "target": 0.2676767676767677,
+    "weight": 0.99
+  },
+  {
+    "target": 0.71,
+    "weight": 1.0
+  },
+  {
+    "target": 0.6262626262626263,
+    "weight": 0.99
+  },
+  {
+    "target": 0.95,
+    "weight": 1.0
+  },
+  {
+    "target": 0.02,
+    "weight": 1.0
+  },
+  {
+    "target": 0.08499999999999999,
+    "weight": 1.0
+  },
+  {
+    "target": 0.292929292929293,
+    "weight": 0.99
+  },
+  {
+    "target": 0.265,
+    "weight": 1.0
+  },
+  {
+    "target": 0.9,
+    "weight": 1.0
+  },
+  {
+    "target": 0.935,
+    "weight": 1.0
+  },
+  {
+    "target": 0.42424242424242425,
+    "weight": 0.99
+  },
+  {
+    "target": 0.7070707070707071,
+    "weight": 0.99
+  },
+  {
+    "target": 0.5303030303030303,
+    "weight": 0.99
+  },
+  {
+    "target": 0.18,
+    "weight": 1.0
+  },
+  {
+    "target": 0.35353535353535354,
+    "weight": 0.99
+  },
+  {
+    "target": 0.13,
+    "weight": 1.0
+  },
+  {
+    "target": 0.74,
+    "weight": 1.0
+  },
+  {
+    "target": 0.005,
+    "weight": 1.0
+  },
+  {
+    "target": 0.30303030303030304,
+    "weight": 0.99
+  },
+  {
+    "target": 0.965,
+    "weight": 1.0
+  },
+  {
+    "target": 0.195,
+    "weight": 1.0
+  },
+  {
+    "target": 0.07,
+    "weight": 1.0
+  },
+  {
+    "target": 0.43939393939393934,
+    "weight": 0.99
+  },
+  {
+    "target": 0.095,
+    "weight": 1.0
+  },
+  {
+    "target": 0.925,
+    "weight": 1.0
+  },
+  {
+    "target": 0.07,
+    "weight": 1.0
+  },
+  {
+    "target": 0.07500000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.135,
+    "weight": 1.0
+  },
+  {
+    "target": 0.18,
+    "weight": 1.0
+  },
+  {
+    "target": 0.40909090909090906,
+    "weight": 0.99
+  },
+  {
+    "target": 1.0,
+    "weight": 1.0
+  },
+  {
+    "target": 0.195,
+    "weight": 1.0
+  },
+  {
+    "target": 0.735,
+    "weight": 1.0
+  },
+  {
+    "target": 0.285,
+    "weight": 1.0
+  },
+  {
+    "target": 0.2676767676767677,
+    "weight": 0.99
+  },
+  {
+    "target": 0.1,
+    "weight": 1.0
+  },
+  {
+    "target": 0.8250000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.005,
+    "weight": 1.0
+  },
+  {
+    "target": 0.07,
+    "weight": 1.0
+  },
+  {
+    "target": 0.175,
+    "weight": 1.0
+  },
+  {
+    "target": 0.3181818181818182,
+    "weight": 0.99
+  },
+  {
+    "target": 0.0,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5454545454545455,
+    "weight": 0.99
+  },
+  {
+    "target": 0.175,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5252525252525253,
+    "weight": 0.99
+  },
+  {
+    "target": 0.11,
+    "weight": 1.0
+  },
+  {
+    "target": 0.6818181818181819,
+    "weight": 0.99
+  },
+  {
+    "target": 0.6464646464646465,
+    "weight": 0.99
+  },
+  {
+    "target": 0.98,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5959595959595959,
+    "weight": 0.99
+  },
+  {
+    "target": 0.265,
+    "weight": 1.0
+  },
+  {
+    "target": 0.125,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5858585858585859,
+    "weight": 0.99
+  },
+  {
+    "target": 0.21500000000000002,
+    "weight": 1.0
+  },
+  {
+    "target": 0.135,
+    "weight": 1.0
+  },
+  {
+    "target": 0.335,
+    "weight": 1.0
+  },
+  {
+    "target": 0.245,
+    "weight": 1.0
+  },
+  {
+    "target": 0.17,
+    "weight": 1.0
+  },
+  {
+    "target": 0.235,
+    "weight": 1.0
+  },
+  {
+    "target": 0.11000000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.5757575757575757,
+    "weight": 0.99
+  },
+  {
+    "target": 0.31313131313131315,
+    "weight": 0.99
+  },
+  {
+    "target": 0.195,
+    "weight": 1.0
+  },
+  {
+    "target": 0.005,
+    "weight": 1.0
+  },
+  {
+    "target": 0.065,
+    "weight": 1.0
+  },
+  {
+    "target": 0.37,
+    "weight": 1.0
+  },
+  {
+    "target": 0.875,
+    "weight": 1.0
+  },
+  {
+    "target": 0.9500000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.045,
+    "weight": 1.0
+  },
+  {
+    "target": 0.2828282828282829,
+    "weight": 0.99
+  },
+  {
+    "target": 0.97,
+    "weight": 1.0
+  },
+  {
+    "target": 0.20500000000000002,
+    "weight": 1.0
+  },
+  {
+    "target": 0.393939393939394,
+    "weight": 0.99
+  },
+  {
+    "target": 0.985,
+    "weight": 1.0
+  },
+  {
+    "target": 0.26262626262626265,
+    "weight": 0.99
+  },
+  {
+    "target": 0.985,
+    "weight": 1.0
+  },
+  {
+    "target": 0.9550000000000001,
+    "weight": 1.0
+  },
+  {
+    "target": 0.74,
+    "weight": 1.0
+  }
+]

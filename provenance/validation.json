@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "python_sources_compiled": 23,
+  "confirmation_rows": 24576,
+  "result_directories": 4,
+  "resource_rows": 40,
+  "readme_sections": [
+    "Overview",
+    "Installation",
+    "Data and models",
+    "Evaluation",
+    "Results",
+    "Repository structure"
+  ],
+  "paper_included": false,
+  "bootstrap_recomputed": false
+}

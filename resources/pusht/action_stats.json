@@ -1,0 +1,11 @@
+{
+  "mean": [
+    -0.007812564379916172,
+    0.006860687229453032
+  ],
+  "scale": [
+    0.20846744284501714,
+    0.20674862637362224
+  ],
+  "source": "same original full-source StandardScaler; pretrained transform retained, not new supervision"
+}

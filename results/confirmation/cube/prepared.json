@@ -1,0 +1,61 @@
+{
+  "status": "complete",
+  "new_training_steps": 0,
+  "new_API": 0,
+  "physical_steps": 0,
+  "models": {
+    "jev_search_2131": {
+      "sha256": "7bbf2e00bc2ec815d37e043cddd101de9ad772be394db8949d564e0aa112323f",
+      "validation_loss": 0.6180263757705688,
+      "last_gradient_norm": 0.003301168791949749
+    },
+    "jev_search_2132": {
+      "sha256": "2b3658eacc6e6d4fb057d91cada82c7fc70e3de690e3c5bcd9897ed4d6a367b7",
+      "validation_loss": 0.6249047517776489,
+      "last_gradient_norm": 0.000753749452996999
+    },
+    "jev_search_2133": {
+      "sha256": "d410a2d39d31d9d59ee2b1de60f1def3d6481bdb396cb9431efdf37692842145",
+      "validation_loss": 0.6213088035583496,
+      "last_gradient_norm": 0.0007134173065423965
+    },
+    "temporal_search_2131": {
+      "sha256": "4fad1e038b0458d2fc10cc7c4ff4938e05493eaefaf5ae4d17c166b45f83d6fd",
+      "validation_loss": 5.069908142089844,
+      "last_gradient_norm": 0.0024723669048398733
+    },
+    "temporal_search_2132": {
+      "sha256": "182c4fb1ab2daaf49fbb5e27cb8a7de4d2088110f57470a5560d7cd830d2ed05",
+      "validation_loss": 4.933335781097412,
+      "last_gradient_norm": 0.001685048919171095
+    },
+    "temporal_search_2133": {
+      "sha256": "0c9e2724538336323145b97b975903c0c12e5cd6c2636c1ec7b67f88f6c1d65f",
+      "validation_loss": 5.077789306640625,
+      "last_gradient_norm": 0.0046264613047242165
+    },
+    "self_search_2131": {
+      "sha256": "0c5ef55e956d072ee9e4267118173468c0cba32ee8058774b94630b64a52a0be",
+      "validation_loss": 0.6155416965484619,
+      "last_gradient_norm": 0.0006482136086560786
+    },
+    "self_search_2132": {
+      "sha256": "ad873bc04999dfdf83d7e009821080736b88e5167435f00fa8ac50eed7d60064",
+      "validation_loss": 0.6129840016365051,
+      "last_gradient_norm": 0.000588461582083255
+    },
+    "self_search_2133": {
+      "sha256": "d2457027aa2282c9a0ea320c5e2ac9081f582f16dc65bf8e97fff1b3e39195fe",
+      "validation_loss": 0.6144651770591736,
+      "last_gradient_norm": 0.0055120280012488365
+    }
+  },
+  "scale": 191.79957580566406,
+  "bank_sha256": "0abf8e4dcc0e5617472b7f583549e9436259d22fb62fb6e1f3f24be4ea9c2569",
+  "split_sha256": "5f4b7db332cbdf372949fac53f68d82e8023678c23a1d1919c828d56d3cdf7e7",
+  "action_stats_sha256": "13bd08544f5713e0bcb26e583265f95b7491a3e9c585c144e4551a4a8a112f60",
+  "checkpoint_sha256": "4894366d017ec685f35a96e66c14579550637eb75baf7c19c62bb79178f01694",
+  "protocol_sha256": "aa5049b4ae14fef52a425b3c4468d45639cbbb6d9b8a87d9cba8bbb4ff2f262b",
+  "source_prepared_sha256": "c04f5781321051f3752fd587b2c31d0521a1e7b5ab968aeea73229c2e36366e5",
+  "completed": 1793436188.864524
+}

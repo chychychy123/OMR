@@ -1,0 +1,10 @@
+{
+  "paper_name": "Outcome-Matched Retrieval (OMR)",
+  "recorded_method": "refined_self",
+  "teacher": "observed endpoint-goal geometric soft relation",
+  "student": "shared linear metric on observed and forecast endpoint features",
+  "online_role": "retrieval ranking only",
+  "planner": "unchanged coarse-to-fine residual backend",
+  "external_api_calls": 0,
+  "world_model_updated": false
+}

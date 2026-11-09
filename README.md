@@ -4,7 +4,7 @@
 
 **Learning goal-relative motion reuse from recorded outcomes**
 
-[Overview](#overview) · [Installation](#installation) · [Data and models](#data-and-models) · [Evaluation](#evaluation) · [Results](#results) · [中文说明](docs/README.zh-CN.md)
+Overview · Installation · Data and models · Evaluation · Results · 中文说明
 
 </div>
 
@@ -25,7 +25,7 @@ OMR operates with a **frozen visual world model**. The learned metric only ranks
 3. **Retrieve:** prefilter by current RGB, rank endpoints with the frozen metric, and recover four recorded action priors.
 4. **Plan and select:** adapt the priors with coarse and command-level residual search, retain all final means, and select with the original frozen goal objective.
 
-The implementation is in [`src/omr`](src/omr). The framework is also available as a [vector PDF](assets/framework.pdf). This source distribution contains code, resources, and experiment records; no manuscript or claimed venue acceptance is included.
+The implementation is in `src/omr`. The framework is also available as a vector PDF. This source distribution contains code, resources, and experiment records; no manuscript or claimed venue acceptance is included.
 
 ## Installation
 
@@ -46,7 +46,7 @@ python scripts/verify_release.py
 python tests/test_solver_parity.py
 ```
 
-`requirements.txt` pins the runtime to commit `21446f1ede6d5284e981bd7b47f432b994e6d812`. The complete observed package inventory is in [`provenance/runtime-lock.txt`](provenance/runtime-lock.txt). Runtime checks compare the installed planning source hashes with the recorded versions. Linux/EGL evaluation is the supported configuration; native Windows simulator evaluation has not been validated.
+`requirements.txt` pins the runtime to commit `21446f1ede6d5284e981bd7b47f432b994e6d812`. The complete observed package inventory is in `provenance/runtime-lock.txt`. Runtime checks compare the installed planning source hashes with the recorded versions. Linux/EGL evaluation is the supported configuration; native Windows simulator evaluation has not been validated.
 
 Release/result verification uses only the Python standard library. The solver parity test runs on CPU with a synthetic cost and does not launch a simulator.
 
@@ -59,7 +59,7 @@ Release/result verification uses only the Python standard library. The solver pa
 - Offline observation/forecast features and numeric reference targets; no label API is required.
 - The exact 128 confirmation roots per environment, complete 24,576-row result matrix, fixed confidence intervals, and evidence hashes.
 
-**External inputs:** original HDF5 datasets and four matching frozen world-model checkpoints. Dataset preparation and checkpoint compatibility are described in [Reproducibility](docs/REPRODUCIBILITY.md). A companion checkpoint archive may be supplied separately; unpack it at the repository root. Checkpoint identities are recorded in [`configs/experiment.json`](configs/experiment.json).
+**External inputs:** original HDF5 datasets and four matching frozen world-model checkpoints. Dataset preparation and checkpoint compatibility are described in Reproducibility. A companion checkpoint archive may be supplied separately; unpack it at the repository root. Checkpoint identities are recorded in `configs/experiment.json`.
 
 ```text
 external_data/                  # Dataset files, downloaded separately
@@ -138,9 +138,9 @@ The primary table comes from the complete independent confirmation. Each environ
 | Reacher | **85.55** | [81.12, 89.71] |
 | **Four-task mean** | **90.10** | [88.09, 91.99] |
 
-The complete evaluation contains **24,576 episodes** and 519,998 executed commands. It includes OMR, geometric observed-only retrieval, preference and temporal reference guides, coarse/direct/retention controls, matched CEM, and retrieval-only planning. Original-precision records are in [`results/all_methods.csv`](results/all_methods.csv); macro statistics are in [`results/all_methods_macro.csv`](results/all_methods_macro.csv). Complete per-run rows and fixed analyses are under [`results/confirmation`](results/confirmation).
+The complete evaluation contains **24,576 episodes** and 519,998 executed commands. It includes OMR, geometric observed-only retrieval, preference and temporal reference guides, coarse/direct/retention controls, matched CEM, and retrieval-only planning. Original-precision records are in `results/all_methods.csv`; macro statistics are in `results/all_methods_macro.csv`. Complete per-run rows and fixed analyses are under `results/confirmation`.
 
-External RGB-system numbers used for descriptive comparison are stored separately in [`results/published_baselines.json`](results/published_baselines.json); they were reported by the original authors and were not rerun here.
+External RGB-system numbers used for descriptive comparison are stored separately in `results/published_baselines.json`; they were reported by the original authors and were not rerun here.
 
 ## Repository structure
 
